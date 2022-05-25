@@ -42,4 +42,4 @@
 
 
 ### Mas, afinal, o que é dorama?
-É denominado dorama produções de origem asiática, mas isso não abarca todos os países da Ásia, sendo assim, o termo diz respeito às produções da Coreia do Sul, Japão, China, Taiwan e Tailandia.
+É denominado dorama produções de origem asiática, mas isso não abarca todos os países da Ásia, sendo assim, o termo diz respeito às produções da Coreia do Sul, Japão, China, Taiwan e Tailândia.
